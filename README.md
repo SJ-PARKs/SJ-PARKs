@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm SJ!
 
 🎯 **Aspiring Data Engineer & Machine Learning Enthusiast**  
 🚀 Passionate about building scalable data pipelines, designing infrastructure, and AI models.
@@ -39,7 +39,13 @@
 ---
 
 📫 **How to reach me:**  
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sungjunp1208@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sungjun-park-b83084326/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SJ-PARKs)
+<p align="left">
+  <a href="mailto:sungjunp1208@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sungjun-park-b83084326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
+
 
