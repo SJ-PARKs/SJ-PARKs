@@ -26,7 +26,8 @@
 ## 💼 Experience
 
 - **[Project/Job Title 1]** – *[Company/Organization]*  
-  *Brief description of your role and what you achieved.*  
+  *Brief description of your role and what you achieved.*
+  
 
 - **[Project/Job Title 2]** – *[Company/Organization]*  
   *Brief description of your role and what you achieved.*  
